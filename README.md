@@ -10,7 +10,7 @@ Original Code :- https://github.com/Sanster/lama-cleaner
 
 2)create environment
 
-py -m venv virenv /n
+py -m venv virenv \n
 Set-ExecutionPolicy -Scope CurrentUser
 1
 .\virenv\Scripts\activate
