@@ -38,7 +38,6 @@ Keys and valuse:-  (add image default path)
 
 input_image:C:\Users\ADMIN\Downloads\ImageInpaintingusingOpenCV\inpainting\resources\image6.jpg
 mask_image:C:\Users\ADMIN\Downloads\ImageInpaintingusingOpenCV\inpainting\resources\mask6.jpg
-
 userid:7
 
 
