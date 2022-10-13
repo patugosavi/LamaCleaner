@@ -41,6 +41,17 @@ mask_image:C:\Users\ADMIN\Downloads\ImageInpaintingusingOpenCV\inpainting\resour
 
 userid:7
 
+Input image -
+
+![image6](https://user-images.githubusercontent.com/42431637/195677709-d91d3c92-f0c9-42ca-a84d-ec921dc28b61.jpg)
+
+mask inage -
+
+![mask6](https://user-images.githubusercontent.com/42431637/195677823-dbd1a1c7-0007-47cd-a313-2cd18d499509.jpg)
+
+output image -
+
+![original1 (1)](https://user-images.githubusercontent.com/42431637/195677855-1ba5da53-7912-4256-b8ce-bc7ec33d114b.png)
 
 
 
