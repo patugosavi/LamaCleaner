@@ -1,6 +1,6 @@
 # LamaCleaner
 
-Image Inpainting 
+Image Inpainting using django rest framework
 
 python version 3.10.7
 
