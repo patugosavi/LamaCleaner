@@ -53,7 +53,9 @@ output image -
 
 ![original1 (1)](https://user-images.githubusercontent.com/42431637/195677855-1ba5da53-7912-4256-b8ce-bc7ec33d114b.png)
 
+Postman Output -
 
+![lamaresult](https://user-images.githubusercontent.com/42431637/195764992-8f2eccdb-662b-41ee-82f0-50a367c1c3eb.png)
 
 Note :-Use only lama SOTA AI model. If you want to change SOTA AI models then check test_model.py 
 
