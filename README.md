@@ -4,7 +4,7 @@ Image Inpainting using django rest framework
 
 python version 3.10.7
 
-Original Code :- https://github.com/Sanster/lama-cleaner
+Refer Code :- https://github.com/Sanster/lama-cleaner
 
 1)Open project folder (lamacleaner)
 
