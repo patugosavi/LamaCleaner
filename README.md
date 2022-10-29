@@ -34,7 +34,7 @@ Method - POST
 
 http://127.0.0.1:8000/inpainting/image/inpainting
 
-Keys and valuse:-  (add image default path)
+Keys and values:-  (add image default path)
 
 input_image:C:\Users\ADMIN\Downloads\ImageInpaintingusingOpenCV\inpainting\resources\image6.jpg
 mask_image:C:\Users\ADMIN\Downloads\ImageInpaintingusingOpenCV\inpainting\resources\mask6.jpg
